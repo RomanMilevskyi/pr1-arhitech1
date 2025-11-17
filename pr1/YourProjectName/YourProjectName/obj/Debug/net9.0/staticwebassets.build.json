@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Mhz9Dd2uv+QY0BUUToZp/NKC392/F2/QQHYi4JlkcUI=",
+  "Source": "YourProjectName",
+  "BasePath": "_content/YourProjectName",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
